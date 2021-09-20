@@ -1,1 +1,1 @@
-# the-sparks-Foundation1
+# The-sparks-Foundation Graduate Rotational Internship Program (GRIP)
