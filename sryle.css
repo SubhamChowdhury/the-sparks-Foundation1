@@ -1,0 +1,40 @@
+body{
+ 
+    background: url(bg1.jpeg) ;
+    background-size: cover;
+  }
+
+  #nav{
+      text-emphasis-color: white;
+
+  }
+  .donate {
+    padding: 25px 50px 75px 100px;
+  }
+  .size{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .button {
+    transition-duration: 0.4s;
+    background-color: #0b6927; 
+    border-radius: 42px;
+    font-size: 26px;
+    padding: 12px 28px;
+    color: white;
+    
+  }
+
+  .donate :hover{
+    color: rgb(0, 0, 0);
+    text-shadow: 0 0 3px #e63905, 0 0 5px #00f75f;
+  }
+  .title-font {
+    text-shadow: 2px 2px;
+  }
+  .title-font:hover{
+    color: rgb(17, 102, 21);
+  }
+  .mr-5:hover {
+    text-shadow: 0 0 3px #09641f, 0 0 5px #9c4512;
+  }
